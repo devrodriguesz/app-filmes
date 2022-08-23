@@ -22,10 +22,10 @@ Antes de começar, você precisa ter [Git](https://git-scm.com), [Node](https://
 
 ```bash 
  # Clone this project
- git clone https://github.com/devrodriguesz/clone-instagram.git
+ git clone https://github.com/devrodriguesz/app-filmes.git
   
  # Access
- cd clone-instagram
+ cd app-filmes
   
  # Install dependencies
  npm install --global yarn
