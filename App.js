@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, FlatList } from 'react-native';
 
-import api from './src/services/api'
+import api from './src/services/api';
+import Filmes from './src/Filmes';
 
 export default function App() {
     const [filmes, setFilmes] = useState([]);
