@@ -2,7 +2,7 @@
 
 Simulação de um aplicativo de filmes por requisição https :)
 
-<img src= "https://user-images.githubusercontent.com/110337546/184051433-38618c4a-f203-4bbb-83d1-1482ba56c2ba.gif" width="250" height="490">
+<img src= "https://user-images.githubusercontent.com/110337546/186043196-771293fc-c8ad-4ae8-a249-a7aeef1fe2aa.gif" width="250" height="490">
 
 ## 🎯 Sobre
 Colocar em prática conhecimentos adquiridos.
